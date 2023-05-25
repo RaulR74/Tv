@@ -1,17 +1,17 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="ESPAÑA",
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ESPAÑA",
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png", group-title="ESPAÑA"
+https://directos.cuatro.com/orilinear09/live/linear09/main/main.isml/main-audio_spa=128000-video=4000000.m3u8
+
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ESPAÑA"
 https://atres-live.atresmedia.com/19bf244f860400911e0e29917d178cbee6cc7eff_ES_1685022112_1685050852/h264/startover_2/antena3/_o_0_o__t_2023-05-25T13P37P43Z_t_/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png", group-title="ESPAÑA
-https://directos.cuatro.com/orilinear09/live/linear09/main/main.isml/main-audio_spa=128000-video=4000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/08/Telecinco.png", group-title="ESPAÑA" https://directos.telecinco.es/orilinear01/live/linear01/main/main.isml/main-audio_spa=128000-video=4000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaclick.es/wp-content/uploads/2016/05/logo-la-sexta.jpg" group-title="ESPAÑA" 
-https://atres-live.atresmedia.com/8e73898d1f68295797b669d361ef421711c9643d_ES_1685028385_1685057125/h264/live/lasexta/bitrate_1.
+https://atres-live.atresmedia.com/8e73898d1f68295797b669d361ef421711c9643d_ES_1685028385_1685057125/h264/live/lasexta/bitrate_1.m3u8

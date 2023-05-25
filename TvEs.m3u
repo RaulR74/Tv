@@ -6,7 +6,5 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ESPAÑA",
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_720.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ESPAÑA", 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ESPAÑA"
 https://atres-live.atresmedia.com/19bf244f860400911e0e29917d178cbee6cc7eff_ES_1685022112_1685050852/h264/startover_2/antena3/_o_0_o__t_2023-05-25T13P37P43Z_t_/bitrate_1.m3u8
